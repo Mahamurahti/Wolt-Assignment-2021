@@ -4,6 +4,9 @@
  # My implementation
 My goal was to make the app with Express, since that is the easiest to setup a server with.
 
+# Setup
+Easiest to install with Node and Express. When you have Express installed, run the server.js script and it will open in localhost on port 8081 ( http://localhost:8081/ ). On the localhost server you will see a loaded html page with a form where you can insert your coordinates and test the backend.
+
 # Overview
 
 In 2017 we added a new view to the Wolt App, known as Discovery. The view mixes curated and automatically generated content, like banners, articles, videos and lists (e.g. “Popular restaurants”, “New restaurants”). Discovery is customized for each user based on their location, personal preferences and order history.
