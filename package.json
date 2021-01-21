@@ -1,0 +1,14 @@
+{
+  "name": "wolt-assignment-express",
+  "version": "1.0.0",
+  "description": "Assignment brief for Wolt backend 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Keränen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
